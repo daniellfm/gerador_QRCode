@@ -1,1 +1,2 @@
 # gerador_QRCode
+# geradorQRCode
